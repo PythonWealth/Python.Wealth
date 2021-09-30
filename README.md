@@ -1,0 +1,2 @@
+# Python.Wealth
+PythonWealthen is a Decentralized Token, future Exchange and yield farm platform on Binance Smart Chain that maintains the same and tested and true liquidity protection mechanism that is so important for investors.   The PythonWealth team saw a lot of people interested in trading using a decentralized exchange, but currently the transaction fees are high, so PythonWealth team will solve the main problem that decentralized finance faced in recent past
